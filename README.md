@@ -1,2 +1,3 @@
-# club-quiz-hse
-HSE School Club Website
+# HSE Quiz Club
+Hosted by Polar Computers Inc.
+Designed by Evan Sellers
