@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Quiz Taker AP with WE</title>
-  
+  <meta name="viewport" content="width=device-width, initial-scale=.8">
   
   <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.3/css/uikit.min.css'>
 
@@ -18,17 +18,15 @@
   <nav class="uk-navbar-container" uk-navbar>
   <div class="uk-navbar-left">
     <ul class="uk-navbar-nav">
-      <a class="uk-navbar-item uk-logo" href="#">Club Quiz Takers</a>
-      <li><a href="#">Take Quiz</a></li>
-      <li><a href="#about" uk-toggle>About Us</a></li>
+      <a class="uk-navbar-item uk-logo" href="#">HSE Club Quiz</a>
     </ul>
   </div>
 
-<!--   <div class="uk-navbar-right">
+  <div class="uk-navbar-right">
     <ul class="uk-navbar-nav">
-      <li href="#share" uk-toggle>Share with Friends</li>
+      <li><a href="#about" uk-toggle>About Us</a></li>
     </ul>
-  </div> -->
+  </div>
 </nav>
 
 <body>
@@ -42,17 +40,22 @@
 
       </div>
       <button class="uk-button uk-button-primary" onclick="checkResults()" href="#results" uk-toggle>What club should I join?</button>
+      
+      
+      
     </div>
+   
   </div>
+  
+   <div class="uk-section-secondary footer">
+     <div class="uk-container uk-container-small uk-text-center uk-padding-small">
+        <p>Developed by <a href="https://PolarComputersInc.com">Evan Sellers</a> in association with the Royal Rumble Club</p>
+     </div>
+   </div>
+  
+  
 
-  <!--  Share Page  -->
-  <div id="share" uk-modal>
-    <div class="uk-modal-dialog uk-modal-body">
-        <button class="uk-modal-close-default" type="button" uk-close></button>
-        <h2 class="uk-modal-title">Share with Friends</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    </div>
-</div>
+
   
   
   <!--  Results  -->
@@ -62,7 +65,7 @@
       <div class="uk-grid-collapse  uk-flex-middle" uk-grid>
         <div class="uk-padding-large">
           <center><h2><b><span id=resultName></span></b> is your best match <i>( <span id=resultPercentage></span>% )</i>.</h2></center>
-<!--           <center><p><span id=resultDescription></span></p></center> -->
+          <center><p><span id=resultDescription></span></p></center>
           <div id=contentResults>
             <span id=resultClubs></span>
             <a>See other clubs</a>
@@ -74,11 +77,11 @@
 
   
   <!--  About  -->
-  <div id="about" class="uk-modal-full" uk-modal>
-    <div class="uk-modal-dialog">
+  <div id="about" class="uk-modal-full" uk-modal >
+    <div class="uk-modal-dialog" uk-height-viewport>
       <button class="uk-modal-close-full uk-close-large" type="button" uk-close></button>
       <div class="uk-grid-collapse uk-child-width-1-2@s uk-flex-middle" uk-grid>
-        <div class="uk-background-cover" style="background-image: url('http://www.kaptest.com/blog/prep/wp-content/uploads/sites/21/2017/10/GettyImages-472194053.jpg');" uk-height-viewport></div>
+        <div class="uk-background-cover about-image" style="background-image: url('http://www.kaptest.com/blog/prep/wp-content/uploads/sites/21/2017/10/GettyImages-472194053.jpg');" ></div>
         <div class="uk-padding-large">
           <h1>About Us</h1>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
