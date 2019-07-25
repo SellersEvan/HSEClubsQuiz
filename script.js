@@ -213,7 +213,7 @@ function generateResults( data ) {
   }
   $( "#resultPercentage" ).text( Math.floor(( max / Object.values( data ).length ) * 100 ) );
   $( "#resultName" ).text( resultsTitles[ maxName ].name  );
-  $( "#resultDescription" ).text( resultsTitles[ maxName ].description  );
+//   $( "#resultDescription" ).text( resultsTitles[ maxName ].description  );
   $( "#resultClubs" ).html( resultsTitles[ maxName ].data );
   console.log( resultsTitles[ maxName ].name );
 }
