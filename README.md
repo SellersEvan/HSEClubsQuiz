@@ -1,4 +1,5 @@
 # HSE Quiz Club
 Hosted by Polar Computers Inc.
 Designed by Evan Sellers
-w
+
+## Please keep directory structure, as long as deployed on HYPE Servers. Ensures fallback for nginx Server
