@@ -25,3 +25,34 @@
     height: 100vh;
   }
 }
+
+.footer {
+  display: block;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  margin: 0;
+  padding: 1.5rem 0;
+  background: black;
+  color: white;
+  border-radius: 1rem 1rem 0 0;
+  box-shadow: 3px 3px 100px 2px rgba(0,0,0,0.1);
+}
+
+button {
+  background: #1a5cff linear-gradient(55deg,rgba(26,92,255,1) 0,rgba(0,123,255,1) 100%);
+  color: white;
+  text-decoration: none;
+  padding: 1rem 2rem;
+  margin: 0.5rem;
+  display: inline-block;
+  font-weight: bold;
+  border-radius: 5rem;
+  transition: all .5s ease;
+}
+
+button:hover {
+  background: black;
+  color: white;
+  box-shadow: 2px 3px 25px 10px rgba(0,0,0,0.1);
+}
