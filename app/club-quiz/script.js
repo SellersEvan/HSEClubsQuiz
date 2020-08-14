@@ -111,63 +111,62 @@ var resultsTitles = {
     name: "Academics",
     description: "bla",
     data: `
-                    <div><strong>ASL Club</strong> Sponsor: Karen Colvin We do activities to promote deaf awareness, practice our signing, fundraise for the Indiana School for the Deaf, and develop relationships with the deaf in our community</div><div> </div>
-                    <div><strong>Academic Team</strong> Sponsors: Sandy Riley, John Drozd This team has many different possibilities for students to show their knowledge in a team competition format, and consists of Quiz Bowl, Spell Bowl, and Super Bowl. Further, Super Bowl consists of teams of major disciplines (English, Math, Science, Social Studies, and Fine Arts).</div><div> </div>
-                    <div><strong>Aspiring Medical Students</strong>Sponsors:  Alan Richardson, Chris Swisher This club is meant to expose students to the world of medicine in a fun and engaging way that doesn't just include doctors but lawyers, vetenarians and more while also promoting classes offered at HSEHS.</div>
-                    <div><strong>Book Club</strong> Sponsor: Karin Foster Join others to talk about books, share and swap books, watch a movie based on a book and more! Stop by and check it out!</div><div> </div>
-                    <div><strong>Budgeting Bliss</strong>Sponsor:  Kari Richardson Help students make their own budgets and learn how to manage monthly spendings.  Also, closet clean outs to donate clothing to those in need.</div><div> </div>
-                    <div><strong>Code For Change</strong> Sponsor: Julie Alano Select a charity/non-profit organization and use students skills in computer science to help aide the charity.</div><div> </div>
-                    <div><strong>Creative Writing</strong> Sponsor: Haylea Quaranta All students with a common interest of all genres of writing fiction, poetry, narrative, biography, theater, screenplays, etc., and who want to share their creative talents and ideas with others.</div><div> </div>
-                    <div><strong>DECA</strong> Sponsors: Kristin Lidstrom, Adam Broughton, Shawn Crull, Kari Richardson Competitive club for high school business students. DECA prepares emerging leaders and entrepreneurs, in marketing, finance hospitality and management, to be career and college ready.</div><div> </div>
-                    <div><strong>Destination Imagination</strong> Sponsor: Kristy Seitz We are a creative problem solving academic team that competes in the regional, state and global communities. It involves problem solving, creativity and teamwork to solve 6 internationally published challenges. Students from their own teams up to 7 members and compete in both a central challenge and an instant challenge.</div><div> </div>
-                    <div><strong>FFA </strong>Sponsors: Tom Younts, Caroline Mills FFA provides opportunities for students in leadership, personal growth, and career success. Focusing on leadership, students can compete in various contests, volunteer their time and efforts to benefit the community, and hold numerous leadership roles within the chapter and throughout the state.</div><div> </div>
-                    <div><strong>Girls Who Code</strong> Sponsor: Julie Alano Club that encourages female participation in the ever growing field of technology</div><div> </div>
-                    <div><strong>Innovate HSE</strong>Sponsor:  Adam Mitschelen Provide a practial entrepreneurial education through the Stanford Embark program.  Students will apply this knowledge in national competitions and improve aspects of the school.</div>
-                    <div><strong>Math Team</strong> Sponsors: Mary Carson, Naomi Jackson This team is composed of students who are interested in socializing with others while problem- solving. This club sponsors mathematics competitions including Mathfax, Indiana Math League, Rose Hulman Math day, the American Mathematics Competition, and the Indiana State Math competition. Students must be active members of Math Club in order to be eligible for Mu Alpha Theta National Mathematics Honorary. This club is open to any student.</div><div> </div><div> </div>
-                    <div><strong>Mock Trial Team</strong> Sponsor: Janet Chandler Team members must audition to participate in this competitive team. Mock trial participates in county, regional, state, and national competitions. Mock Trial team members encompass all four grades. They are students who enjoy acting, public speaking, and law.</div><div> </div>
-                    <div><strong>Rube Goldberg Club</strong> Sponsor: Robin Townsend Create Rube Goldberg machine with multiple steps and tricks to achieve a final simple task.</div><div> </div>
-                    <div><strong>National Honor Society</strong> Sponsors: Amy Shipley & Jill McGrath This is an organization that rewards students for their academic achievements and service to the community and school. In order to be a member, a student must complete an application in March of his/her sophomore or junior year. A student must have earned a cumulative grade point average of 3.5 or higher and participated in clubs, organizations or athletics. The student’s application will be reviewed by a faculty committee and acceptance will be based on the factors of scholarship, leadership, character and service. Inductions will take place in the fall of every school year. For more information, please contact Mrs. Shipley at (317) 594‐4190.</div><div> </div>
-                    <div><strong>Philosophy Club</strong> Sponsor: Brian Pletcher Students will study the great philosophers, world views and religions of the world based on their own belief system. The format will encourage open discussion, Socratic dialogs, questioning, and healthy debate in order to help students understand other views and to defend and stretch their own views. For more information, please contact Mr. Pletcher at (317) 594‐4190.</div><div> </div>
-                    <div><strong>Quill and Scroll</strong> Sponsors: David Young & Jordan Klobusnik Quill and Scroll International Society for high school journalists (journalism honor society)</div><div> </div>
-                    <div><strong>Robotics Club</strong> Sponsor: Josh Gish To promote the application of STEM through the use of robotics. Come design, build, program and test robots using the VEX Platform. We participate in custom in‐house competitions each nine weeks and in out of house competitions as well. No experience necessary.</div><div> </div><div> </div>
-                    <div><strong>Royal Eco Club</strong> Sponsor: Kacy Brobst, Wafa Safi-Hassan is an organization that promotes environmentally‐friendly lifestyle and seeks to educate those at HSE about current environment issues.</div><div> </div><div> </div>
-                    <div><strong>Speech Team</strong> Sponsors: Bob Hinshaw Our speech and debate team is committed to two things: helping students enjoy and succeed in the art of public speaking and persuasion, as these skills are essential in life, and to having fun while doing so! We are a competitive in the Hoosier Crossroads Conference and can help any student who wishes to learn and develop skills to be successful in a variety of dramatic events, like poetry reading or original oratory, limited preparation speaking events, like expository and/or informative speaking, and various styles of debate, like public forum or Lincoln-Douglas debate.</div><div> </div>
-                    <div><strong>Student Council</strong> Sponsors: Della Johnson, John Ayars Student Council is an opportunity for students to be the voice of HSE, along with planning homecoming activities, volunteering, and running the annual food drive.</div><div> </div>
-                    <div><strong>We The People</strong> Sponsor: Janet Chandler We the People is included in an AP Government class. Team members form smaller groups to study the Constitution. Units deal with the philosophy and history behind the Constitution in addition to applications to the present day. The team competes at regional and state level. The state winner advances to a national competition.</div><div> </div>
-
-          `
+      <div><strong>ASL Club</strong> (Karen Colvin)<br>We do activities to promote deaf awareness, practice our signing, fundraise for the Indiana School for the Deaf, and develop relationships with the deaf in our community</div><br>
+      <div><strong>Academic Team</strong> (Sandy Riley, John Drozd)<br>This team has many different possibilities for students to show their knowledge in a team competition format, and consists of Quiz Bowl, Spell Bowl, and Super Bowl. Further, Super Bowl consists of teams of major disciplines (English, Math, Science, Social Studies, and Fine Arts).</div><br>
+      <div><strong>Aspiring Medical Students</strong> (Alan Richardson, Chris Swisher)<br>This club is meant to expose students to the world of medicine in a fun and engaging way that doesn't just include doctors but lawyers, vetenarians and more while also promoting classes offered at HSEHS.</div><br>
+      <div><strong>Book Club</strong> (Karin Foster)<br>Join others to talk about books, share and swap books, watch a movie based on a book and more! Stop by and check it out!</div><br>
+      <div><strong>Budgeting Bliss</strong> (Kari Richardson)<br>Help students make their own budgets and learn how to manage monthly spendings.  Also, closet clean outs to donate clothing to those in need.</div><br>
+      <div><strong>Code For Change</strong> (Julie Alano)<br>Select a charity/non-profit organization and use students skills in computer science to help aide the charity.</div><br>
+      <div><strong>Creative Writing</strong> (Haylea Quaranta)<br>All students with a common interest of all genres of writing fiction, poetry, narrative, biography, theater, screenplays, etc., and who want to share their creative talents and ideas with others.</div><br>
+      <div><strong>DECA</strong> (Kristin Lidstrom, Adam Broughton, Shawn Crull, Kari Richardson)<br>Competitive club for high school business students. DECA prepares emerging leaders and entrepreneurs, in marketing, finance hospitality and management, to be career and college ready.</div><br>
+      <div><strong>Destination Imagination</strong> (Kristy Seitz)<br>We are a creative problem solving academic team that competes in the regional, state and global communities. It involves problem solving, creativity and teamwork to solve 6 internationally published challenges. Students from their own teams up to 7 members and compete in both a central challenge and an instant challenge.</div><br>
+      <div><strong>FFA </strong> (Tom Younts, Caroline Mills)<br>FFA provides opportunities for students in leadership, personal growth, and career success. Focusing on leadership, students can compete in various contests, volunteer their time and efforts to benefit the community, and hold numerous leadership roles within the chapter and throughout the state.</div><br>
+      <div><strong>Girls Who Code</strong> (Julie Alano)<br>Club that encourages female participation in the ever growing field of technology</div><br>
+      <div><strong>Innovate HSE</strong> (Adam Mitschelen)<br>Provide a practial entrepreneurial education through the Stanford Embark program.  Students will apply this knowledge in national competitions and improve aspects of the school.</div><br>
+      <div><strong>Math Team</strong> (Mary Carson, Naomi Jackson)<br>This team is composed of students who are interested in socializing with others while problem- solving. This club sponsors mathematics competitions including Mathfax, Indiana Math League, Rose Hulman Math day, the American Mathematics Competition, and the Indiana State Math competition. Students must be active members of Math Club in order to be eligible for Mu Alpha Theta National Mathematics Honorary. This club is open to any student.</div><br>
+      <div><strong>Mock Trial Team</strong> (Janet Chandler)<br>Team members must audition to participate in this competitive team. Mock trial participates in county, regional, state, and national competitions. Mock Trial team members encompass all four grades. They are students who enjoy acting, public speaking, and law.</div><br>
+      <div><strong>Rube Goldberg Club</strong> (Robin Townsend)<br>Create Rube Goldberg machine with multiple steps and tricks to achieve a final simple task.</div><br>
+      <div><strong>National Honor Society</strong> (Amy Shipley, Jill McGrath)<br>This is an organization that rewards students for their academic achievements and service to the community and school. In order to be a member, a student must complete an application in March of his/her sophomore or junior year. A student must have earned a cumulative grade point average of 3.5 or higher and participated in clubs, organizations or athletics. The student’s application will be reviewed by a faculty committee and acceptance will be based on the factors of scholarship, leadership, character and service. Inductions will take place in the fall of every school year. For more information, please contact Mrs. Shipley at (317) 594‐4190.</div><br>
+      <div><strong>Philosophy Club</strong> (Brian Pletcher)<br>Students will study the great philosophers, world views and religions of the world based on their own belief system. The format will encourage open discussion, Socratic dialogs, questioning, and healthy debate in order to help students understand other views and to defend and stretch their own views. For more information, please contact Mr. Pletcher at (317) 594‐4190.</div><br>
+      <div><strong>Quill and Scroll</strong> (David Young & Jordan Klobusnik)<br>Quill and Scroll International Society for high school journalists (journalism honor society)</div><br>
+      <div><strong>Robotics Club</strong> (Josh Gish)<br>To promote the application of STEM through the use of robotics. Come design, build, program and test robots using the VEX Platform. We participate in custom in‐house competitions each nine weeks and in out of house competitions as well. No experience necessary.</div><br>
+      <div><strong>Royal Eco Club</strong> (Kacy Brobst, Wafa Safi-Hassan)<br>Royal Eco Club is an organization that promotes environmentally‐friendly lifestyle and seeks to educate those at HSE about current environment issues.</div><br>
+      <div><strong>Speech Team</strong> (Bob Hinshaw)<br>Our speech and debate team is committed to two things: helping students enjoy and succeed in the art of public speaking and persuasion, as these skills are essential in life, and to having fun while doing so! We are a competitive in the Hoosier Crossroads Conference and can help any student who wishes to learn and develop skills to be successful in a variety of dramatic events, like poetry reading or original oratory, limited preparation speaking events, like expository and/or informative speaking, and various styles of debate, like public forum or Lincoln-Douglas debate.</div><br>
+      <div><strong>Student Council</strong> (Della Johnson, John Ayars)<br>Student Council is an opportunity for students to be the voice of HSE, along with planning homecoming activities, volunteering, and running the annual food drive.</div><br>
+      <div><strong>We The People</strong> (Janet Chandler)<br>We the People is included in an AP Government class. Team members form smaller groups to study the Constitution. Units deal with the philosophy and history behind the Constitution in addition to applications to the present day. The team competes at regional and state level. The state winner advances to a national competition.</div><br>
+    `
   },
   athleticGaming: {
     name: "Athletics & Gaming",
     description: "bla",
     data: `
-                    <div><strong>Blue Crew Leadres</strong> Sponsor: Jagga Rent This group of Royal fanatics lead our student section at games and events.  Our goal is to cheer on the Royals; let's face it, that's all that matters!</div>
-                    <div><strong>Bowling</strong> Sponsor: Andrea McAlister We meet at Pinheads two times per week for practice and competitions.</div>
-                    <div><strong>DND</strong> Sponsor: Jennifer Regelski Fellow players will play and learn teamwork, inclusiveness, logical reasoning.</div>
-                    <div><strong>Fellowship of Christian Athletes</strong> Sponsor: Steve Guenin An interdenominational Christian organization, open to all students, not just athletes, who want to join together in fellowship. The group meets every week for games, snacks, singing, and Bible study. For more information, please contact Mr. Guenin and Mrs. Wiseman at (317) 594‐4190.</div><div> </div>
-                    <div><strong>Hiking Club</strong> Sponsor: Katie Stahl Meetings will take place to plan and coordinate day-long hikes to area parks and reserves. Hikes will take place one day a month. The club will encourage healthy and sustainable living practices.</div><div> </div>
-                    <div><strong>LEGO Club</strong> Sponsor: Brian Bohm Build and create lego sets.  This allows students to use their creativity.</div>
-                    <div><strong>Magic the Gathering Club</strong>Sponsor: Aaron Vest To encourage face to face interactions between students while playing fun games at the same time while creating lasting friendships.</div>
-                    <div><strong>Paintball Club</strong> Sponsor: Greg Sasser Group of students that share an enthusiasm for the sport of paintball.</div><div> </div>
-                    <div><strong>Robotics Club</strong> Sponsor: Josh Gish To promote the application of STEM through the use of robotics. Come design, build, program and test robots using the VEX Platform. We participate in custom in‐house competitions each nine weeks and in out of house competitions as well. No experience necessary.</div><div> </div>
-                    <div><strong>Rock Climbing Club</strong> Sponsor: Patty Kulesavage Rock Climbing Club: Ever wanted to climb high, safely? Join the rock climbing club, where you'll learn basics about rock climbing, and learn to love the sport. We will be climbing off site, location to be determined, but will most-likely be Climb Time!</div>
-                    <div><strong>Rube Goldberg Club</strong> Sponsor: Robin Townsend Create Rube Goldberg machine with multiple steps and tricks to achieve a final simple task.</div><div> </div>
-                    <div><strong>Ski/Snowboarding Club</strong> Sponsors: Kim Beaulieu, Jerry Davis, Tish McCallister This club travels to Perfect North ski resort 4 times during January every year for a very reasonable price. Ski/Snowboarding is open to new and experienced skiers.</div><div> </div>
-                    <div><strong>Speuchre Club</strong> Sponsor: John Drozd Enjoy the comedic and figurative values embedded within the classic Nickelodeon cartoon, SpongeBob, square paws, while also playing the classic card game, Euchre.</div>
-                    <div><strong>Ultimate Frisbee Club</strong> Sponsor: Kelsey Habig Have fun and play frisbee.</div>
-                    <div><strong>Unified Royals Sports Club</strong> Sponsors: Risa Petty, Marsha Lee Bringing together students with exceptional needs with typical peers in a fun sports environment.</div>
-                    <div><strong>Video Game Club</strong> Sponsor: Kevin Hoover Bring students together to have fun playing and competing in video games.  We will aslo explore the possibiilty of gaining college scholarships through E-Sports.</div>
-        `
+      <div><strong>Blue Crew Leadres</strong> (Jagga Rent)<br>This group of Royal fanatics lead our student section at games and events.  Our goal is to cheer on the Royals; let's face it, that's all that matters!</div><br>
+      <div><strong>Bowling</strong> (Andrea McAlister)<br>We meet at Pinheads two times per week for practice and competitions.</div><br>
+      <div><strong>DND</strong> (Jennifer Regelski)<br>Fellow players will play and learn teamwork, inclusiveness, logical reasoning.</div><br>
+      <div><strong>Fellowship of Christian Athletes</strong> (Steve Guenin)<br>An interdenominational Christian organization, open to all students, not just athletes, who want to join together in fellowship. The group meets every week for games, snacks, singing, and Bible study. For more information, please contact Mr. Guenin and Mrs. Wiseman at (317) 594‐4190.</div><br>
+      <div><strong>Hiking Club</strong> (Katie Stahl)<br>Meetings will take place to plan and coordinate day-long hikes to area parks and reserves. Hikes will take place one day a month. The club will encourage healthy and sustainable living practices.</div><br>
+      <div><strong>LEGO Club</strong> (Brian Bohm)<br>Build and create lego sets. This allows students to use their creativity.</div><br>
+      <div><strong>Magic the Gathering Club</strong> (Aaron Vest)<br>To encourage face to face interactions between students while playing fun games at the same time while creating lasting friendships.</div><br>
+      <div><strong>Paintball Club</strong> (Greg Sasser)<br>Group of students that share an enthusiasm for the sport of paintball.</div><br>
+      <div><strong>Robotics Club</strong> (Josh Gish)<br>To promote the application of STEM through the use of robotics. Come design, build, program and test robots using the VEX Platform. We participate in custom in‐house competitions each nine weeks and in out of house competitions as well. No experience necessary.</div><br>
+      <div><strong>Rock Climbing Club</strong> (Patty Kulesavage)<br>Rock Climbing Club: Ever wanted to climb high, safely? Join the rock climbing club, where you'll learn basics about rock climbing, and learn to love the sport. We will be climbing off site, location to be determined, but will most-likely be Climb Time!</div><br>
+      <div><strong>Rube Goldberg Club</strong> (Robin Townsend)<br>Create Rube Goldberg machine with multiple steps and tricks to achieve a final simple task.</div><br>
+      <div><strong>Ski/Snowboarding Club</strong> (Kim Beaulieu, Jerry Davis, Tish McCallister)<br>This club travels to Perfect North ski resort 4 times during January every year for a very reasonable price. Ski/Snowboarding is open to new and experienced skiers.</div><br>
+      <div><strong>Speuchre Club</strong> (John Drozd)<br>Enjoy the comedic and figurative values embedded within the classic Nickelodeon cartoon, SpongeBob, square paws, while also playing the classic card game, Euchre.</div><br>
+      <div><strong>Ultimate Frisbee Club</strong> (Kelsey Habig)<br>Have fun and play frisbee.</div><br>
+      <div><strong>Unified Royals Sports Club</strong> (Risa Petty, Marsha Lee)<br>Bringing together students with exceptional needs with typical peers in a fun sports environment.</div><br>
+      <div><strong>Video Game Club</strong> (Kevin Hoover)<br>Bring students together to have fun playing and competing in video games.  We will aslo explore the possibiilty of gaining college scholarships through E-Sports.</div><br>  
+    `
   },
   religious: {
     name: "Religious",
     description: "bla",
     data: `
-                    <div><strong>Campus Life</strong>Sponsor: Traci Batuyong, Nick Fishel This group will give students an opportunity to come socialize and learn about Christ in a non-threatening environment who may not feel comfrotable attending church.</div>
-                    <div><strong>Fellowship of Christian Athletes</strong> Sponsor: Steve Guenin An interdenominational Christian organization, open to all students, not just athletes, who want to join together in fellowship. The group meets every week for games, snacks, singing, and Bible study. For more information, please contact Mr. Guenin and Mrs. Wiseman at (317) 594‐4190.</div><div> </div>
-                    <div><strong>Muslim Student Association</strong> Sponsor: Wafa Safi-Hassan This club is devoted to creating a sense of community for Muslim students (and friends) through service and activism, educating both Muslims and people of other faiths about the religion of Islam, and facilitating a better environment for students on campus. For more information, please contact Wafa Safi‐Hassan at wsafi@hse.k12.in.us.</div><div></div>
-                    <div><strong>Young Life Capernaum</strong> Sponsor: Sandra Riley Capernaum is the arm of Young Life’s ministry that is specifically dedicated to serving students and young adults with special needs and physical & intellectual disabilities. Young Life is a global, non-denominational Christian outreach ministry whose mission is to introduce adolescents to Jesus Christ and help them grow in their faith. Capernaum events occur once a month after school and we are run by Young Life adult volunteers and upperclassmen students who are actively involved in Young Life. Students of all faith backgrounds – as well as their parents/guardians – are welcome.</div><div> </div>
-      `
+      <div><strong>Campus Life</strong> (Traci Batuyong, Nick Fishel)<br>This group will give students an opportunity to come socialize and learn about Christ in a non-threatening environment who may not feel comfrotable attending church.</div><br>
+      <div><strong>Fellowship of Christian Athletes</strong> (Steve Guenin)<br>An interdenominational Christian organization, open to all students, not just athletes, who want to join together in fellowship. The group meets every week for games, snacks, singing, and Bible study. For more information, please contact Mr. Guenin and Mrs. Wiseman at (317) 594‐4190.</div><br>
+      <div><strong>Muslim Student Association</strong> (Wafa Safi-Hassan)<br>This club is devoted to creating a sense of community for Muslim students (and friends) through service and activism, educating both Muslims and people of other faiths about the religion of Islam, and facilitating a better environment for students on campus. For more information, please contact Wafa Safi‐Hassan at wsafi@hse.k12.in.us.</div><br>
+      <div><strong>Young Life Capernaum</strong> (Sandra Riley)<br>Capernaum is the arm of Young Life’s ministry that is specifically dedicated to serving students and young adults with special needs and physical & intellectual disabilities. Young Life is a global, non-denominational Christian outreach ministry whose mission is to introduce adolescents to Jesus Christ and help them grow in their faith. Capernaum events occur once a month after school and we are run by Young Life adult volunteers and upperclassmen students who are actively involved in Young Life. Students of all faith backgrounds – as well as their parents/guardians – are welcome.</div><br>
+    `
   },
   visualArts: {
     name: "Visual Arts",
@@ -184,28 +183,27 @@ var resultsTitles = {
     name: "Humanitarian",
     description: "bla",
     data: `
-                    <div><strong>Best Buddies High School</strong> Sponsor: Morgan Rumple, Barb Onufrock Best Buddies is a nonprofit 501(c)(3) organization dedicated to establishing a global volunteer movement that creates opportunities for one-to-one friendships, integrated employment and leadership development for people with intellectual and developmental disabilities.</div><div> </div>
-                    <div><strong>Bring Change To Mind</strong> Sponsors: Leslie Caliz, Brooke Lawson Create awareness, educate, and have a voice in regards to mental health and suicide prevention.</div><div> </div>
-                    <div><strong>Code For Change</strong> Sponsor: Julie Alano Select a charity/non-profit organization and use students skills in computer science to help aide the charity.</div><div> </div>
-                    <div><strong>Crafting For Kids</strong> Sponsor: Kim Bakle Create DIY crafts for children at Riley!</div><div> </div>
-                    <div><strong>Disney Club</strong> Sponsor: Jamie Follis Give students who love Disney a group to belong to and share their love.  Also do philanthropic endeavors with Riley and Make a Wish.</div>
-                    <dib><strong>Global Change for Charity</strong> Sponsor: Kim Bakle To fulfill the vision of spreading awareness and widely distributing knowledge about global issues; raise money for charities that are deeply trying to move forward in solving or supporting a global crisis/prevention.  Each month we will support a new theme.  We will pick between two researched charities and spend the remainder of the month spreading awareness, raising moneyand running events that support the charity.</div>
-                    <div><strong>HSE RDM</strong> Sponsor: Liz Trinkle HSEDM will plan and implement various fundraising activities to earn money for Riley Hospital leading up to the Dance Marathon in March!</div>
-                    <div><strong>HSE Share The Music</strong> Sponsor: Zak Tschiniak Volunteer and play at events such as nursing homes to share our passion for music.</div>
-                    <div><strong>HSE Students for Shelter Animals</strong> Sponsor: Megan Ewing The club will raise awareness about animal rescue, raise funds, collect donations and volunteer at an area shelter/rescue.</div>
-                    <div><strong>Habitat for Humanity</strong> Sponsor: Robin Townsend, Meghan Miller The purpose of a Habitat for Humanity (HFH) campus chapter at HSE High School is to educate students about housing needs within Hamilton County, to provide financial support for Hamilton County HFH through fundraising, to organize service opportunities allowing students to aid in the construction of homes, and to advocate for better and more affordable living conditions in our community.</div><div> </div>
-                    <div><strong>How to Save A Life</strong> Sponsor: Dan Regelski Help show students they do matter.  Raise money for suicide foundation.</div>
-                    <div><strong>Interact Club</strong> Sponsor: Gaye Garrett This is a service oriented club sponsored by the Fishers Rotary Club and part of the Rotary International Organization. We offer students the opportunity to become involved in volunteer service opportunities in our school, community, and with an international focus. Members are required to participate in two service opportunities per semester as well as an ‘all club’ project during the school year. The goal of the club is to promote the Rotary ideal of “Service above Self”.</div><div> </div>
-                    <div><strong>Key Club</strong> Sponsor: Ken Link Key Club is the student affiliate of Kiwanis International. They are a service organization that sponsors the school blood drives, has Melanoma Awareness Week, raises funds for UNICEF’s Eliminate project and helps to feed the underserved in Hamilton County, among other projects.</div><div> </div>
-                    <div><strong>Lifeline</strong> Sponsor: Jorja Duban To inform and educate teens about the risk factors of developing a substance abuse disorder.  Also, the various triggers that enable it, as well as treatment options.</div>
-                    <div><strong>Make A Wish</strong> Sponsor: Jackie Purcell In Make A Wish club, we will raise money through doing different fundraisers for children with life threatening diseases to have their wish granted.</div><div> </div>
-                    <div><strong>National Honor Society</strong> Sponsors: Amy Shipley & Jill McGrath This is an organization that rewards students for their academic achievements and service to the community and school. In order to be a member, a student must complete an application in March of his/her sophomore or junior year. A student must have earned a cumulative grade point average of 3.5 or higher and participated in clubs, organizations or athletics. The student’s application will be reviewed by a faculty committee and acceptance will be based on the factors of scholarship, leadership, character and service. Inductions will take place in the fall of every school year. For more information, please contact Mrs. Shipley at (317) 594‐4190.</div><div> </div>
-                    <div><strong>PERIOD@HSE</strong> Sponsor: Jill McGrath To educate students about period poverty while giving back to our community through donations. We will be working with the non profit organization PERIOD.</div><div> </div>
-                    <div><strong>Royal Eco Club</strong> Sponsors: Kacy Brobst, Wafa Safi-Hassan Royal Eco Club is an organization that promotes environmentally‐friendly lifestyle and seeks to  educate those at HSE about current environment issues.</div><div> </div>
-                    <div><strong>Student Council</strong> Sponsors: Emily Curnow, Hannah Hunt, Caroline Emerson Student Council is an opportunity for students to be the voice of HSE, along with planning homecoming activities, volunteering, and running the annual food drive.</div><div> </div>
-                    <div><strong>UNICEF</strong> Sponsor: Elizabeth Murphy UNICEF helps to advocate for underserved children around the world, working for more healthy lifestyles and quality education.  The club will help raise money for children in need.<div><div></div>
-
-              `
+      <div><strong>Best Buddies High School</strong> (Morgan Rumple, Barb Onufrock)<br>Best Buddies is a nonprofit 501(c)(3) organization dedicated to establishing a global volunteer movement that creates opportunities for one-to-one friendships, integrated employment and leadership development for people with intellectual and developmental disabilities.</div><br>
+      <div><strong>Bring Change To Mind</strong> (Leslie Caliz, Brooke Lawson)<br>Create awareness, educate, and have a voice in regards to mental health and suicide prevention.</div><br>
+      <div><strong>Code For Change</strong> (Julie Alano)<br>Select a charity/non-profit organization and use students skills in computer science to help aide the charity.</div><br>
+      <div><strong>Crafting For Kids</strong> (Kim Bakle)<br>Create DIY crafts for children at Riley!</div><br>
+      <div><strong>Disney Club</strong> (Jamie Follis)<br>Give students who love Disney a group to belong to and share their love.  Also do philanthropic endeavors with Riley and Make a Wish.</div><br>
+      <div><strong>Global Change for Charity</strong> (Kim Bakle)<br>To fulfill the vision of spreading awareness and widely distributing knowledge about global issues; raise money for charities that are deeply trying to move forward in solving or supporting a global crisis/prevention.  Each month we will support a new theme.  We will pick between two researched charities and spend the remainder of the month spreading awareness, raising moneyand running events that support the charity.</div><br>
+      <div><strong>HSE RDM</strong> (Liz Trinkle)<br>HSEDM will plan and implement various fundraising activities to earn money for Riley Hospital leading up to the Dance Marathon in March!</div><br>
+      <div><strong>HSE Share The Music</strong> (Zak Tschiniak)<br>Volunteer and play at events such as nursing homes to share our passion for music.</div><br>
+      <div><strong>HSE Students for Shelter Animals</strong> (Megan Ewing)<br>The club will raise awareness about animal rescue, raise funds, collect donations and volunteer at an area shelter/rescue.</div><br>
+      <div><strong>Habitat for Humanity</strong> (Robin Townsend, Meghan Miller)<br>The purpose of a Habitat for Humanity (HFH) campus chapter at HSE High School is to educate students about housing needs within Hamilton County, to provide financial support for Hamilton County HFH through fundraising, to organize service opportunities allowing students to aid in the construction of homes, and to advocate for better and more affordable living conditions in our community.</div><br>
+      <div><strong>How to Save A Life</strong> (Dan Regelski)<br>Help show students they do matter.  Raise money for suicide foundation.</div><br>
+      <div><strong>Interact Club</strong> (Gaye Garrett)<br>This is a service oriented club sponsored by the Fishers Rotary Club and part of the Rotary International Organization. We offer students the opportunity to become involved in volunteer service opportunities in our school, community, and with an international focus. Members are required to participate in two service opportunities per semester as well as an ‘all club’ project during the school year. The goal of the club is to promote the Rotary ideal of “Service above Self”.</div><br>
+      <div><strong>Key Club</strong> (Ken Link)<br>Key Club is the student affiliate of Kiwanis International. They are a service organization that sponsors the school blood drives, has Melanoma Awareness Week, raises funds for UNICEF’s Eliminate project and helps to feed the underserved in Hamilton County, among other projects.</div><br>
+      <div><strong>Lifeline</strong> (Jorja Duban)<br>To inform and educate teens about the risk factors of developing a substance abuse disorder.  Also, the various triggers that enable it, as well as treatment options.</div><br>
+      <div><strong>Make A Wish</strong> (Jackie Purcell)<br>In Make A Wish club, we will raise money through doing different fundraisers for children with life threatening diseases to have their wish granted.</div><br>
+      <div><strong>National Honor Society</strong> (Amy Shipley, Jill McGrath)<br>This is an organization that rewards students for their academic achievements and service to the community and school. In order to be a member, a student must complete an application in March of his/her sophomore or junior year. A student must have earned a cumulative grade point average of 3.5 or higher and participated in clubs, organizations or athletics. The student’s application will be reviewed by a faculty committee and acceptance will be based on the factors of scholarship, leadership, character and service. Inductions will take place in the fall of every school year. For more information, please contact Mrs. Shipley at (317) 594‐4190.</div><br>
+      <div><strong>PERIOD@HSE</strong> (Jill McGrath)<br>To educate students about period poverty while giving back to our community through donations. We will be working with the non profit organization PERIOD.</div><br>
+      <div><strong>Royal Eco Club</strong> (Kacy Brobst, Wafa Safi-Hassan)<br>Royal Eco Club is an organization that promotes environmentally‐friendly lifestyle and seeks to  educate those at HSE about current environment issues.</div><br>
+      <div><strong>Student Council</strong> (Emily Curnow, Hannah Hunt, Caroline Emerson)<br>Student Council is an opportunity for students to be the voice of HSE, along with planning homecoming activities, volunteering, and running the annual food drive.</div><br>
+      <div><strong>UNICEF</strong> (Elizabeth Murphy)<br>UNICEF helps to advocate for underserved children around the world, working for more healthy lifestyles and quality education.  The club will help raise money for children in need.</div><br>
+    `
   },
   perspective: {
     name: "Expanding Perspective",
@@ -249,7 +247,7 @@ var resultsTitles = {
     description: "bla",
     data: `
                 <div><strong>GOP</strong> Sponsor: Dottie Beegle, Heather Templin, Miriam Jones Encourage diverse students to create leadership skills, engage in civil discourse and share and promote republican ideas and candidates.</div><div> </div>
-                    <div><strong>HSE Democrats</strong> Sponsor: Brenda Barrett The Democrat club is a student led organization that is open to all students who want to discuss current events, volunteer for local campaigns, engage with guest speakers, register voters and give back to the community. Meetings will be in J221 monthly/bi-monthly.</div><div> </div>
+                <div><strong>HSE Democrats</strong> Sponsor: Brenda Barrett The Democrat club is a student led organization that is open to all students who want to discuss current events, volunteer for local campaigns, engage with guest speakers, register voters and give back to the community. Meetings will be in J221 monthly/bi-monthly.</div><div> </div>
                    
 
           `
@@ -302,6 +300,25 @@ function generateAttr( obj ) {
   return result;
 }
 
+// generate explore page
+function explorePage() {
+  var values = Object.values( resultsTitles );
+  var result = "";
+
+  for ( var i = 0; i < values.length; i++ ) {
+    result += `
+      <li>
+        <a class="uk-accordion-title" href="#">${ values[ i ].name }</a>
+        <div class="uk-accordion-content">
+          ${ values[ i ].data }
+        </div>
+      </li>
+    `
+  }
+
+  $( "#explorePageInsertClubs" ).html( result );
+}
+
 
 
 // Generate Results
@@ -334,6 +351,7 @@ function generateResults( data ) {
   }
   if ( resultsTitles[ maxName ] && resultsTitles[ maxName ].name ) {
     $( "#titleInfo" ).html( "<b>" + resultsTitles[ maxName ].name + "</b> is your best match ( " + Math.floor(( max / Object.values( data ).length ) * 100 ) + "% )" );
+    console.log( resultsTitles[ maxName ].data )
     $( "#resultClubs" ).html( resultsTitles[ maxName ].data );
   } else {
     $( "#titleInfo" ).html( "Well that's boring!" );
@@ -349,4 +367,5 @@ function generateResults( data ) {
 
 $( document ).ready(function() {
     LoadForm();
+    explorePage();
 });
