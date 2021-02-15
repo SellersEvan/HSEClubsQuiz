@@ -1,6 +1,7 @@
 # HSE Quiz Club
 Hosted by Polar Computers Inc.
 Designed by Evan Sellers
+https://sellersevan.github.io/HSEClubsQuiz/app/club-quiz/
 
 ## Please keep directory structure, as long as deployed on Hype Servers. Ensures fallback for nginx Server
 
